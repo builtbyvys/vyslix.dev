@@ -1,0 +1,19 @@
+# EditorConfig is useful for consistent coding styles between IDEs (https://editorconfig.org)
+# This configuration is inspired by AngularJS (https://github.com/mgcrea/angular-strap/blob/master/.editorconfig)
+
+root = true
+
+[*]
+# Personal preference
+indent_style = space
+indent_size = 2
+
+# Consistent Code Style
+charset = utf-8
+end_of_line = lf
+trim_trailing_whitespace = true
+insert_final_newline = true
+
+# Other file extensions
+[*.md]
+trim_trailing_whitespace = false

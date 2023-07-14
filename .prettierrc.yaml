@@ -1,0 +1,9 @@
+# just stole ven's configuration (i like it) (https://codeberg.org/Ven/vendicated.dev/src/branch/main/.prettierrc.yaml)
+
+arrowParens: avoid
+endOfLine: lf
+useTabs: false
+tabWidth: 4
+trailingComma: es5
+semi: true
+printWidth: 80

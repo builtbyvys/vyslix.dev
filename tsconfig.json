@@ -1,3 +1,11 @@
+// # just stole ven's configuration (i like it) (https://codeberg.org/Ven/vendicated.dev/src/branch/main/tsconfig.json)
 {
-  "extends": "astro/tsconfigs/strict"
+    "extends": "astro/tsconfigs/strict",
+    "compilerOptions": {
+        "jsx": "react-jsx",
+        "jsxImportSource": "react",
+        "noImplicitAny": false
+    },
+
+    "include": ["src/**/*"]
 }
